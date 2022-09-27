@@ -1,0 +1,4 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="ZO]`j!hv`yOo#Er=@.pD" x="29" y="186"><comment pinned="true" h="147" w="281">Created by : John Ketiku
+Created on : Sept 2022
+
+This program says, "Hello, World!"</comment><statement name="HANDLER"><block type="device_print_message" id="t0ek(v66Y#EReIAQ9kIE"><value name="text"><shadow type="text" id="u?uwGSR%{tYJwMtBByLc"><field name="TEXT">Hello!</field></shadow></value></block></statement></block></xml>
